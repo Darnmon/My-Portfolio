@@ -1,0 +1,5 @@
+git checkout main
+git checkout feature/user.auth
+alternative sides 
+git switch main 
+
